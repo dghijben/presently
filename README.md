@@ -1,3 +1,3 @@
 # Presently
 
-Projeto de estudo criado com AngularJS e com estrutura de uma app chrome local.
+Study design created with AngularJS and structure of a chrome app site.
