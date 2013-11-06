@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div ng-controller="MainCtrl">
-            {{ date.raw }}
+            {{ date.raw | date:'hh mm ss' }}
         </div>
     </div>
     <script src="./js/vendor/angular.min.js"></script>
